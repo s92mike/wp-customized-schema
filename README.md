@@ -1,6 +1,6 @@
-# BL Block Author Authority Section Repo
+# Block Author Authority Section Repo
 
-BL Block Author Authority Section Repo is a custom Boundless WordPress plugin that is for the blogs author section and block page's block author section.
+Block Author Authority Section Repo is a custom WordPress plugin that is for the blogs author section and block page's block author section.
 
 ## For Development:
 
@@ -14,8 +14,7 @@ wordpress/wp-content/plugins/bl-clean-plugin-repo
 ```php
 <?php
 /**
- * Plugin Name:       Boundless Clean Plugin Template
- * Plugin URI:        https://www.boundless.com
+ * Plugin Name:       Clean Plugin Template
  * Description:       Add the description of the plugin here.
  * Version:           1.0.0
 ``` 
