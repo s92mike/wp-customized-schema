@@ -1,0 +1,20 @@
+{
+    "name": "dream/fm-schema",
+    "description": "All about the author section for the blogs and any block pages",
+    "type": "project",
+    "license": "GPL3+",
+    "authors": [
+        {
+            "name": "Francis Miguel Abella",
+            "email": "migyn.s92mike@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "lib"
+    },
+      "autoload": {
+        "psr-4": {
+            "Dream\\FMSchema\\": "php/"
+        }
+    }
+}
